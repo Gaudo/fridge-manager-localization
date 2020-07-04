@@ -1,0 +1,37 @@
+{
+  "shortcutToday": "Today",
+  "@shortcutToday": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "shortcutTomorrow": "Tomorrow",
+  "@shortcutTomorrow": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "shortcutThreeDays": "3 days",
+  "@shortcutThreeDays": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "shortcutOneWeek": "1 week",
+  "@shortcutOneWeek": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "shortcutAboutOneMonth": "about 1 month",
+  "@shortcutAboutOneMonth": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addAProduct": "Add a product",
+  "@addAProduct": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "nameOfTheProduct": "Name of the product",
+  "@nameOfTheProduct": {
+    "type": "text",
+    "placeholders": {}
+  }
+}
